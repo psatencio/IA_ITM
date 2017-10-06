@@ -1,7 +1,9 @@
-completo
+Aplicacion en clase - primera parte: https://1drv.ms/u/s!AuhT5i3uNvwckOYthu4cXxs4THujfw 
 
-https://www.kaggle.com/c/dogs-vs-cats/data
+Train/Dev: https://1drv.ms/u/s!AuhT5i3uNvwckOYsHnH1kY5cPXYZRg
 
-Para la clase
+completo: https://www.kaggle.com/c/dogs-vs-cats/data
 
-https://1drv.ms/u/s!AuhT5i3uNvwckOYsuBI-O_WN6_OS4w
+
+
+
