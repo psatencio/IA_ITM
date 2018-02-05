@@ -1,7 +1,7 @@
 #IA_ITM
  
 Pedro Atencio Ortiz
-2017
+2018
 Material de clase
 Asignatura: Inteligencia Artificial
 
