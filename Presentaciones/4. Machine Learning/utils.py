@@ -7,7 +7,7 @@ import sklearn
 from sklearn import datasets
 import matplotlib.pyplot as plt
 
-def generate_data(data_type):
+def generate_data(data_type, num_samples=100, random_seed = 0):
     """
     Generate a binary dataset with distribution data_type
 
@@ -18,13 +18,13 @@ def generate_data(data_type):
     X -- features
     Y -- labels
     """ 
-    np.random.seed(0)
+    np.random.seed(random_seed)
     if data_type == 'moons':
-        X, Y = datasets.make_moons(500, noise=0.20)
+        X, Y = datasets.make_moons(num_samples, noise=0.20)
     elif data_type == 'circles':
-        X, Y = sklearn.datasets.make_circles(500, noise=0.20)
+        X, Y = sklearn.datasets.make_circles(num_samples, noise=0.20)
     elif data_type == 'blobs':
-        X, Y = sklearn.datasets.make_blobs(centers=2, random_state=0)
+        X, Y = sklearn.datasets.make_blobs(n_samples = num_samples, centers=2, random_state=0)
     return X, Y
 
 def visualize(X, y, model):
