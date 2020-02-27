@@ -17,6 +17,6 @@ Los codigos en Python y adaptación de contenido en notebooks de Jupyter, han si
 
 - <a href="https://colab.research.google.com/drive/1ysTneEeRIzSoYzMwqfTMEA3CTW3nv2Qr">2. Informed Search Strategies.</a>
 
-- <a href="https://colab.research.google.com/drive/1rEqNa0goBAWQENwalFIyR6xQd7Q-XpZh">3. Simulated Annealing.</<>
+- <a href="https://colab.research.google.com/drive/1rEqNa0goBAWQENwalFIyR6xQd7Q-XpZh">3. Simulated Annealing.</a>
 
 - <a href="https://colab.research.google.com/drive/1k7QJrJVLb72qWnQIYGZYHIen7AjNtCuF">4. Genetic Algorithms.</a>
