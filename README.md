@@ -38,3 +38,5 @@ Los codigos en Python y adaptación de contenido en notebooks de Jupyter, han si
 - <a href="https://colab.research.google.com/drive/1yWNVWQjGovrQ0VgcMEkcGOjO5LNNWqQN?usp=sharing">12. Neural Network and BackPropagation.</a>
 
 - <a href="https://colab.research.google.com/drive/1pibsX8qsQ9EAAk-FpKGJAJhUILUyGWqQ?usp=sharing">13. tensorflow.keras basics </a>
+
+- <a href="https://colab.research.google.com/drive/1GiN-FFmGwZmZzt4gg97tssFI9r8KkSeh?usp=sharing">14. Redes convolutivas </a>
