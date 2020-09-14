@@ -23,7 +23,7 @@ Los codigos en Python y adaptación de contenido en notebooks de Jupyter, han si
 
 - <a href="https://colab.research.google.com/drive/1uZktjFJsx76bNigM9AnkNFJdE4RtFRSm?usp=sharing">3. Simulated Annealing.</a>
 
-- <a href="">4. Genetic Algorithms.</a>
+- <a href="https://colab.research.google.com/drive/1fosFeSbDVOR3ke5m19yqPQNkNr4YsVwe?usp=sharing">4. Genetic Algorithms.</a>
 
 - <a href="">5. Fuzzy Logic.</a>
 
