@@ -19,13 +19,14 @@ Los codigos en Python y adaptación de contenido en notebooks de Jupyter, han si
 
 <hr>
 
-### Busqueda y solución de problemas
+### Búsqueda y solución de problemas
 
 - <a href="https://colab.research.google.com/drive/1BPkvWbZPPbB_jMRA50mZKAFN3YvmrVxI?usp=sharing">1. Solving problems by searching -- Uninformed Search Strategies.</a>
 
 - <a href="https://colab.research.google.com/drive/1HCPs8dmOwjNLHFNvwuD6cHmx_rnvkqlt?usp=sharing">2. Informed Search Strategies.</a>
 
 <hr>
+
 ### Más allá de la búsqueda tradicional
 
 - <a href="https://colab.research.google.com/drive/1uZktjFJsx76bNigM9AnkNFJdE4RtFRSm?usp=sharing">3. Simulated Annealing.</a>
