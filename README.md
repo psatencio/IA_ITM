@@ -11,7 +11,13 @@ Los codigos en Python y adaptación de contenido en notebooks de Jupyter, han si
 
 ## Enlaces a los notebooks en Google Colab
 
+<hr>
+
+### Introducción
+
 -  <a href= "https://colab.research.google.com/drive/1iYn2IsEEk1abbwQ-f3Xb1OCH10di0_ct?usp=sharing">0. Introduccion</a>
+
+<hr>
 
 ### Busqueda y solución de problemas
 
@@ -19,13 +25,19 @@ Los codigos en Python y adaptación de contenido en notebooks de Jupyter, han si
 
 - <a href="https://colab.research.google.com/drive/1HCPs8dmOwjNLHFNvwuD6cHmx_rnvkqlt?usp=sharing">2. Informed Search Strategies.</a>
 
+<hr>
 ### Más allá de la búsqueda tradicional
 
 - <a href="https://colab.research.google.com/drive/1uZktjFJsx76bNigM9AnkNFJdE4RtFRSm?usp=sharing">3. Simulated Annealing.</a>
 
 - <a href="https://colab.research.google.com/drive/1fosFeSbDVOR3ke5m19yqPQNkNr4YsVwe?usp=sharing">4. Genetic Algorithms.</a>
 
-- <a href="">5. Fuzzy Logic.</a>
+
+<hr>
+
+### Razonamiento e incertidumbre
+
+- <a href="https://colab.research.google.com/drive/1Gu73rJMKKlLfGMkmpw-u5J-2bVCEPs2P?usp=sharing">5. Fuzzy Logic.</a>
 
 - <a href="">6. Machine Learning - Quick Intro.</a>
 
