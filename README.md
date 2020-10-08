@@ -40,7 +40,11 @@ Los codigos en Python y adaptación de contenido en notebooks de Jupyter, han si
 
 - <a href="https://colab.research.google.com/drive/1Gu73rJMKKlLfGMkmpw-u5J-2bVCEPs2P?usp=sharing">5. Fuzzy Logic.</a>
 
-- <a href="">6. Machine Learning - Quick Intro.</a>
+<hr>
+
+### Machine Learning
+
+- <a href="https://colab.research.google.com/drive/1HHHJCLKxtURtEJLZ_a8HnzcX8-KBraOe?usp=sharing">6. Machine Learning - Quick Intro.</a>
 
 - <a href="">7. Machine Learning - Classic Models.</a>
 
