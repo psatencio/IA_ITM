@@ -1,4 +1,4 @@
-# IA_ITM
+# Inteligencia Artificial - ITM
  
 Pedro Atencio Ortiz
 2020-II
@@ -46,7 +46,7 @@ Los codigos en Python y adaptación de contenido en notebooks de Jupyter, han si
 
 - <a href="https://colab.research.google.com/drive/1HHHJCLKxtURtEJLZ_a8HnzcX8-KBraOe?usp=sharing">6. Machine Learning - Quick Intro.</a>
 
-- <a href="">7. Machine Learning - Classic Models.</a>
+- <a href="https://colab.research.google.com/drive/1ZqtULqmzFw73fYd5J0wuXiceMFz63gTC?usp=sharing">7. Machine Learning - Classic Models.</a>
 
 - <a href=""> 8. Performance Evaluation. </a>
 
