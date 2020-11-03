@@ -54,7 +54,7 @@ Los codigos en Python y adaptación de contenido en notebooks de Jupyter, han si
 
 - <a href="https://colab.research.google.com/drive/1DGnMXcmBO1MEna0v2Kah3rSH3iTAKnGK?usp=sharing">10. Logistic Regression. </a>
 
-- <a href="">11. Chained Logistic Regressors. </a>
+- <a href="https://colab.research.google.com/drive/1zmgYa5If7boaK3eG0V4Btki3TdZ1TAge?usp=sharing">11. Chained Logistic Regressors. </a>
 
 - <a href="">12. Neural Network and BackPropagation.</a>
 
