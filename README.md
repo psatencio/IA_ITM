@@ -56,6 +56,10 @@ Los codigos en Python y adaptación de contenido en notebooks de Jupyter, han si
 
 - <a href="https://colab.research.google.com/drive/1zmgYa5If7boaK3eG0V4Btki3TdZ1TAge?usp=sharing">11. Chained Logistic Regressors. </a>
 
+<hr>
+
+### Neural Networks
+
 - <a href="https://colab.research.google.com/drive/1Jek1b7vxYDlK5doZc8LvMh9x3u0obuPK?usp=sharing">12. Neural Network and BackPropagation.</a>
 
 - <a href="https://colab.research.google.com/drive/1S93q1BqJztHu9XOJ2qwvwfos1x3ZYDWE?usp=sharing">13. tensorflow.keras basics. </a>
