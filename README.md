@@ -29,9 +29,9 @@ Los codigos en Python y adaptación de contenido en notebooks de Jupyter, han si
 
 ### Más allá de la búsqueda tradicional
 
-- <a href="">3. Simulated Annealing.</a>
+- <a href="https://colab.research.google.com/drive/1ttp_BjQ1I5W1anQK2KLzqTGmILDlYBg3?usp=sharing">3. Simulated Annealing.</a>
 
-- <a href="">4. Genetic Algorithms.</a>
+- <a href="https://colab.research.google.com/drive/1mD0zFEuoYJPbkoLesJnDgW-PyV4_sNO6?usp=sharing">4. Genetic Algorithms.</a>
 
 
 <hr>
