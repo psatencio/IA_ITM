@@ -38,7 +38,7 @@ Los codigos en Python y adaptación de contenido en notebooks de Jupyter, han si
 
 ### Razonamiento e incertidumbre
 
-- <a href="">5. Fuzzy Logic.</a>
+- <a href="https://colab.research.google.com/drive/1km57KJ8GR13LtR6YQIPQ0q-vUzG23ko_?usp=sharing">5. Fuzzy Logic.</a>
 
 <hr>
 
