@@ -44,7 +44,7 @@ Los codigos en Python y adaptación de contenido en notebooks de Jupyter, han si
 
 ### Machine Learning
 
-- <a href="">6. Machine Learning - Quick Intro.</a>
+- <a href="https://colab.research.google.com/drive/1vA76sdKmPqasdzTV-ROWbWB-YtJ17O6y?usp=sharing">6. Machine Learning - Quick Intro.</a>
 
 - <a href="">7. Machine Learning - Classic Models.</a>
 
