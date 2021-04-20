@@ -48,7 +48,7 @@ Los codigos en Python y adaptación de contenido en notebooks de Jupyter, han si
 
 - <a href="https://colab.research.google.com/drive/11D_SvZXlVKKFJ1xVMjwqfcfUvcUuZoCf?usp=sharing">7. Machine Learning - Classic Models.</a>
 
-- <a href=""> 8. Performance Evaluation. </a>
+- <a href="https://colab.research.google.com/drive/1LZ61iTpmb2W1mDEHj0QoPcUO1lWOV5Z0?usp=sharing"> 8. Performance Evaluation. </a>
 
 - <a href="">9. Linear Regression and Gradient Descent. </a>
 
