@@ -52,9 +52,9 @@ Los codigos en Python y adaptación de contenido en notebooks de Jupyter, han si
 
 - <a href="https://colab.research.google.com/drive/1XZRpN8C5LPJNiSbfajedAB_iXQ4hKQV3?usp=sharing">9. Linear Regression and Gradient Descent. </a>
 
-- <a href="">10. Logistic Regression. </a>
+- <a href="https://colab.research.google.com/drive/104rl-DP7R8cMpIXOV_jMATMwfSAb6CJF?usp=sharing">10. Logistic Regression. </a>
 
-- <a href="">11. Chained Logistic Regressors. </a>
+- <a href="https://colab.research.google.com/drive/1M6bSoNeSJwJF01QObrUeMRbngPvIAVDu?usp=sharing">11. Chained Logistic Regressors. </a>
 
 <hr>
 
