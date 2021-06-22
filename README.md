@@ -60,8 +60,6 @@ Los codigos en Python y adaptación de contenido en notebooks de Jupyter, han si
 
 ### Neural Networks
 
-- <a href="">12. Neural Network and BackPropagation.</a>
+- <a href="https://colab.research.google.com/drive/1LbYoS6wTbh3yoJIo5NvwWZ726JHtAm_Y?usp=sharing">12. Neural Network and BackPropagation.</a>
 
-- <a href="">13. tensorflow.keras basics. </a>
-
-- <a href="">14. Convolutional Networks. </a>
+- <a href="https://colab.research.google.com/drive/1UKFR48kIv9_h2rCvwuL8oiIq2e5MOc3y?usp=sharing">13. tensorflow.keras basics. </a>
